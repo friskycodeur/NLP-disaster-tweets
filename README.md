@@ -11,7 +11,7 @@
 #### Note :
 - If you like it , do star it and play with it yourself by forking it !
 - If encounter any problem or are having a hard time understanding something you can contact me here :
-   - [mailto](mailto:friskycodeur@gmail.com)
+   - [Mail here](mailto:friskycodeur@gmail.com)
    - [LinkedIn](https://www.linkedin.com/in/friskycodeur/)
    
  
