@@ -10,6 +10,10 @@
 ### Updates :
  - Used the BERT model to get an accuracy of 84.6% (on test case)
  - The code is almost finalised , will update with the steps required soon.
+ - The finalized model of the Naive-Bayes appraoch has bee added which can get us to an accuracy of ~80% on Kaggle!
+
+### Naice-Bayes Model :
+- A complete version of step-by-step explanation of building a model classifiying a tweet as disaster realted or not using Naive-bayes modelling !
 #### Note :
 - If you like it , do star it and play with it yourself by forking it !
 - If encounter any problem or are having a hard time understanding something you can contact me here :
