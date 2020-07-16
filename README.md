@@ -14,6 +14,10 @@
 
 ### Naice-Bayes Model :
 - A complete version of step-by-step explanation of building a model classifiying a tweet as disaster realted or not using Naive-bayes modelling !
+
+### BERT Model :
+- A complete version of step-by-step explanation of building a model classifiying a tweet as disaster realted or not using BERT modelling !
+
 #### Note :
 - If you like it , do star it and play with it yourself by forking it !
 - If encounter any problem or are having a hard time understanding something you can contact me here :
@@ -21,4 +25,4 @@
    - [LinkedIn](https://www.linkedin.com/in/friskycodeur/)
    - [Kaggle](https://www.kaggle.com/friskycodeur)
  
-![Have fun](https://i.chzbgr.com/full/6045226752/h0F95BB35/your-excited-have-fun-learning)
+<img src='https://i.chzbgr.com/full/6045226752/h0F95BB35/your-excited-have-fun-learning' align='center'>
