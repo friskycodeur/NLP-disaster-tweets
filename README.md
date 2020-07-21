@@ -4,9 +4,11 @@
  ### Details 
  - This model can distinguish and classify a tweet as disastarious or non-disastarious).
  - Currently on a acccuracy of 80% with the base model , work in progress will be updated soon.
- - Once it's done I will try to deploy it on the web too !
  - It is a part of Kaggle competitons , you can find the description here: [NLP with disaster tweets](https://www.kaggle.com/c/nlp-getting-started)
  - Trying this to get good grasp of NLP basics
+**The detailed and explained version can be found here:** 
+- [Bert Model explained](https://www.kaggle.com/friskycodeur/nlp-with-disaster-tweets-bert-explained)
+- [Naive-Bayes Model Explained](https://www.kaggle.com/friskycodeur/nlp-w-disaster-tweets-explained)
 ### Updates :
  - Used the BERT model to get an accuracy of 84.6% (on test case)
  - The code is almost finalised , will update with the steps required soon.
@@ -24,5 +26,6 @@
    - [Mail here](mailto:friskycodeur@gmail.com)
    - [LinkedIn](https://www.linkedin.com/in/friskycodeur/)
    - [Kaggle](https://www.kaggle.com/friskycodeur)
+   
  
 <img src='https://i.chzbgr.com/full/6045226752/h0F95BB35/your-excited-have-fun-learning' align='center'>
