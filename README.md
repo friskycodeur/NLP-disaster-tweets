@@ -5,8 +5,8 @@
  - This model can distinguish and classify a tweet as disastarious or non-disastarious).
  - Currently on a acccuracy of 80% with the base model , work in progress will be updated soon.
  - It is a part of Kaggle competitons , you can find the description here: [NLP with disaster tweets](https://www.kaggle.com/c/nlp-getting-started)
- - Trying this to get good grasp of NLP basics
-**The detailed and explained version can be found here:** 
+ - Trying this to get good grasp of NLP basics <br>
+#### The detailed and explained version can be found here: 
 - [Bert Model explained](https://www.kaggle.com/friskycodeur/nlp-with-disaster-tweets-bert-explained)
 - [Naive-Bayes Model Explained](https://www.kaggle.com/friskycodeur/nlp-w-disaster-tweets-explained)
 ### Updates :
